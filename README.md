@@ -12,7 +12,7 @@ apt install wget -y; bash <(wget -qO- https://raw.githubusercontent.com/zxL0rdxz
 
 # 𓊈𒆜 CHAVE DE INSTALAÇÃO! 𒆜𓊉
 ```
-CoutySSH
+zxlordxz
 ```
 
 # 𓊈𒆜 SINCRONIZAR NA VPS SSH! 𒆜𓊉
