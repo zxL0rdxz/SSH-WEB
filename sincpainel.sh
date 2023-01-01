@@ -16,6 +16,7 @@ wget https://raw.githubusercontent.com/zxL0rdxz/SSH-WEB/main/sshplus.zip.001 > /
 wget https://raw.githubusercontent.com/zxL0rdxz/SSH-WEB/main/sshplus.zip.002 > /dev/null 2>&1
 wget https://raw.githubusercontent.com/zxL0rdxz/SSH-WEB/main/sshplus.zip.003 > /dev/null 2>&1
 cat sshplus.zip* > monitor.zip && zip -F monitor.zip > /dev/null 2>&1
+rm -rf /opt/sshplus > /dev/null 2>&1
 unzip monitor.zip -d  /opt/sshplus/ > /dev/null 2>&1
 chmod -R 777 /opt/sshplus > /dev/null 2>&1
 sleep 1
