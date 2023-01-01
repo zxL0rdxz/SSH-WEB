@@ -375,8 +375,7 @@ install_continue2
 	sed -i "s/#PasswordAuthentication no/PasswordAuthentication yes/g" /etc/ssh/sshd_config
 } > /dev/null
 echo ""
-echo -e "SSH WEB" | figlet | boxes -d stone -p a0v0 | lolcat
-echo -e "                              \033[1;31mBy @Couty_SSH\033[1;36m" | lolcat
+echo -e "SSH-WEB" | figlet | boxes -d stone -p a0v0 | lolcat
 echo ""
 echo -e "\033[1;36mDEFINA UMA NOVA SENHA PARA\033[0m" | lolcat
 echo -e "\033[1;36mO USUÁRIO ROOT DA VPS E\033[0m" | lolcat
@@ -393,7 +392,7 @@ pconf
 inst_db
 cron_set
 fun_swap
-tst_bkp
+tst_bkp0
 clear
 sed -i "s;upload_max_filesize = 2M;upload_max_filesize = 256M;g" /etc/php/8.1/apache2/php.ini > /dev/null 2>&1
 sed -i "s;post_max_size = 8M;post_max_size = 256M;g" /etc/php/8.1/apache2/php.ini > /dev/null 2>&1
