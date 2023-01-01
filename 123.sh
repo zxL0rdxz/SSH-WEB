@@ -333,7 +333,7 @@ clear
 echo -e "\E[44;1;37m    INSTALANDO PAINEL    \E[0m"
 echo ""
 echo -e "SSH WEB" | figlet | boxes -d stone -p a0v0 | lolcat
-echo -e "                              \033[1;31mBy @Couty_SSH\033[1;36m" | lolcat
+echo -e "                              \033[1;31mBy @zxlordxz\033[1;36m" | lolcat
 echo ""
 chave=$(curl -sSL "https://raw.githubusercontent.com/zxL0rdxz/SSH-WEB/main/chave") &>/dev/null
 
