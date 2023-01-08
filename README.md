@@ -20,11 +20,6 @@ zxlordxz
 apt install wget -y; bash <(wget -qO- https://raw.githubusercontent.com/zxL0rdxz/SSH-WEB/sincpainel.sh)
 ```
 
-# 𓊈𒆜 SCRIPT COM CHECKUSER CONECTA4G! 𒆜𓊉
-```
-em breve
-```
-
 # 𓊈𒆜 ATUALIZAÇÕES: 𒆜𓊉
 ```
 1- Comando pweb
@@ -61,8 +56,3 @@ em breve
 ![Screenshot_9](https://user-images.githubusercontent.com/105602625/190263465-93cbd881-a166-412f-99bb-1c613c78b7af.jpg)
 
 ![Screenshot_8](https://user-images.githubusercontent.com/105602625/190263464-7be50eb5-aed8-47d5-9f29-233d769ae8ac.jpg)
-
-
-
-# 𓊈𒆜 VPN MONEY: 𒆜𓊉
-👉 
